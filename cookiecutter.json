@@ -1,0 +1,11 @@
+{
+    "project_name": "test_project",
+    "author": "Anonymous",
+    "project_brief": "Testing",
+    "copyright": "Testing",
+    "source_folder": "src",
+    "version_file": "version",
+    "_copy_without_render": [
+        "dependencies"
+    ]
+}
